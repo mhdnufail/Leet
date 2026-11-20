@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 55.9 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given a string  `s`  consisting of words and spaces, return  *the length of the 
 
 A  **word**  is a maximal substring consisting of non-space characters only.
 
-OriginalJavaScript **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "Hello World"
