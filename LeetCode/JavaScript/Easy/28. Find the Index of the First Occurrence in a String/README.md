@@ -17,7 +17,7 @@ Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algor
 
 Given two strings  `needle`  and  `haystack` , return the index of the first occurrence of  `needle`  in  `haystack` , or  `-1`  if  `needle`  is not part of  `haystack` .
 
-OriginalJavaScript **Example 1:**
+**Example 1:**
 
 ```
 Input: haystack = "sadbutsad", needle = "sad"
